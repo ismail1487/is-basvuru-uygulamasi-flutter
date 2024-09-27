@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1027620664462",
+    "project_id": "jobbite-5a8b5",
+    "storage_bucket": "jobbite-5a8b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027620664462:android:668b874df7103280bfc5df",
+        "android_client_info": {
+          "package_name": "com.example.jobbite"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqh1Z25mUdP3e7Xc_GPLgpXjllKz7nF8k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027620664462:android:ddf25e03c3f186f5bfc5df",
+        "android_client_info": {
+          "package_name": "com.example.jobbiteproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqh1Z25mUdP3e7Xc_GPLgpXjllKz7nF8k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
